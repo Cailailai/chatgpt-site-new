@@ -60,7 +60,7 @@ ChatGPT 镜像网站是基于 OpenAI 的 ChatGPT 模型，提供与 ChatGPT 官�
 
 7. **哪些站点适合新手？**  
    - [https://songshugpt.com](https://songshugpt.com)：非常适合新手使用。
-   - [https://gptdog.online/](](https://chat.lify.vip)：功能丰富，适合有更高需求的用户。
+   - [https://gptdog.online/](https://gptdog.online/)：功能丰富，适合有更高需求的用户。
    - [https://gptcat.net](https://gptcat.net)：专为创意工作者设计。
 
 如有其他疑问，欢迎随时联系！
