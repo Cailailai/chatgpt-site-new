@@ -26,7 +26,7 @@ ChatGPT 镜像网站是基于 OpenAI 的 ChatGPT 模型，提供与 ChatGPT 官�
 ### 国内推荐的 ChatGPT 镜像网站：
 
 - [https://songshugpt.com](https://songshugpt.com) - ChatGPT 镜像网站，支持 GPT-4、4o 以及 o1，支持 AI绘画、AI助手、AI插件、AI PPT~
-- [https://gptdog.online/](](https://chat.lify.vip) - ChatGPT 中文版，支持 GPT-4、4o 以及 o1、o1 pro，支持 AI写作、AI编程、AI办公等场景
+- [https://gptdog.online/](https://gptdog.online/) - ChatGPT 中文版，支持 GPT-4、4o 以及 o1、o1 pro，支持 AI写作、AI编程、AI办公等场景
 - [https://gptcat.net](https://gptcat.net) - AI工具站，不仅 ChatGPT，还有各种AI工具，你想要的，这儿都有~
 - [https://ai-panda.xyz](https://ai-panda.xyz) - GPT-4 镜像站，支持 GPT-4、4o，支持 MJ 绘画
 - [https://givemegpt.top/](https://givemegpt.top/) - 免费的 ChatGPT，支持 GPT-4、4o 和 4o mini
