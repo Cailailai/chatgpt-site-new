@@ -8,7 +8,7 @@
 
 我们为您整理了最新可用的 ChatGPT 镜像网站，无需翻墙就能直接使用~
 
-这些 ChatGPT 镜像网站不仅支持 ChatGPT 模型，能无限使用 GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3**，有的还能免费体验使用~
+这些 ChatGPT 镜像网站不仅支持 ChatGPT 模型，**能无限使用 GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3**，有的还能免费体验使用~
 
 ### 为什么选择 ChatGPT 镜像网站？
 
